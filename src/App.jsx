@@ -29,29 +29,7 @@ const App = () => {
  </BrowserRouter>
 
 
-    // <Router>
-    //   <div>
-    //     <nav>
-    //       <ul>
-    //         <li>
-    //           <Link to="/income">Income</Link>
-    //         </li>
-    //         <li>
-    //           <Link to="/expenses">Expenses</Link>
-    //         </li>
-    //       </ul>
-    //     </nav>
 
-      
-    //       <Route path="/income">
-    //         <IncomePage />
-    //       </Route>
-    //       <Route path="/expenses">
-    //         <ExpensePage />
-    //       </Route>
-       
-    //   </div>
-    // </Router>
   );
 };
 
